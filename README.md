@@ -3,17 +3,18 @@
 This a practice repo.an API which works mysql database.
 
 setup a local database with the following credentials:
-username:test
-password:test123
-table:simplerest
+
+username:test <br /> 
+password:test123 <br />
+table:simplerest 
 
 
-to add a book use the following variables:
-{
-	"name":"",
-	"author":"",
-	"publication":""
-}
+to add a book use the following variables:<br />
+{<br />
+&ensp;&ensp;"name":"",<br />
+&ensp;&ensp;"author":"",<br />
+&ensp;&ensp;"publication":""<br />
+}<br />
 ***
 
 **The routes to access the REST API:**
