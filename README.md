@@ -15,7 +15,8 @@ to add a book use the following variables:
 	"publication":""
 }
 ***
-the routes to access the REST API:
+
+**The routes to access the REST API:**
 | Action | ROUTE  |METHOD |
 | ------- | --- | --- |
 | Get_ALL_books | /book/  | GET|
